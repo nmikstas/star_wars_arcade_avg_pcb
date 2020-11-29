@@ -1,0 +1,15 @@
+(module LED (layer F.Cu) (tedit 5F7A0156)
+  (fp_text reference CR (at 0 1.905 unlocked) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LED (at 0 0) (layer F.Fab) hide
+    (effects (font (size 0.254 0.254) (thickness 0.0635)))
+  )
+  (fp_line (start -0.635 -2.54) (end -0.635 -1.27) (layer F.SilkS) (width 0.12))
+  (fp_line (start -0.635 -1.905) (end 0.635 -2.54) (layer F.SilkS) (width 0.12))
+  (fp_line (start 0.635 -2.54) (end 0.635 -1.27) (layer F.SilkS) (width 0.12))
+  (fp_line (start 0.635 -1.27) (end -0.635 -1.905) (layer F.SilkS) (width 0.12))
+  (fp_poly (pts (xy 0.635 -1.27) (xy -0.635 -1.905) (xy 0.635 -2.54)) (layer F.SilkS) (width 0.1))
+  (pad 1 thru_hole rect (at -1.27 0 180) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 1.27 0 180) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+)

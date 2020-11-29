@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Star_Wars_Vector_PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/Star_Wars_Vector_PCB-rescue.lib)(options "")(descr ""))
+  (lib (name Star_Wars_Vector_PCB)(type Legacy)(uri ${KIPRJMOD}/Star_Wars_Vector_PCB.lib)(options "")(descr ""))
+  (lib (name Asteroids)(type Legacy)(uri ${KIPRJMOD}/Asteroids.lib)(options "")(descr ""))
+)
