@@ -1,0 +1,108 @@
+Reference                                   Quantity        Value           Part#
+
+A_2                                         1               "LS20"          Jameco 47095
+A_3 E_4                                     2               "LS00"          Jameco 46252
+A_4 C_4                                     2               "LS157"         Jameco 46771
+A_7 BC_8 D_7 BC_9 F_9                       5               "082"           Jamec0 33241
+B_3                                         1               "LS174"         Jameco 46931
+B_4                                         1               "S129"          Alan-1 state machine ROM
+B_7 E_7                                     2               "LF13201"       Digikey DG201BDJ-E3-ND
+C_2                                         1               "LS11"          Jameco 46439
+C_5 B_5 A_5 F_5 H_5 H_6                     6               "LS194"         Jameco 47052
+D_1 C_1 B_1 B_2                             4               "LS161"         Jameco 46818
+D_4                                         1               "LS14"          Jameco 46640
+D_6 F_8                                     2               "DAC-08"        Digikey DAC0800LCN/NOPB-ND
+E_3 E_1 H_3 M_8                             4               "LS02"          Jameco 46287
+E_5 F_6                                     2               "LS273"         Jameco 47386
+E_6 AB_6                                    2               "AM6012"        Digikey DAC312HPZ-ND
+F_1                                         1               "LS27"          Jameco 47378
+F_2                                         1               "LS109"         Jameco 46421
+F_3                                         1               "S260"          Jameco 64725
+F_4                                         1               "LS86"          Jameco 48098
+H_2 A_1                                     2               "LS08"          Jamec0 46375
+H_4 L_5 L_6 M_5 C_3                         5               "LS175"         Jameco 46957
+J_2                                         1               "AVG"           Alan-1 AVG
+J_5 E_2                                     2               "LS32"          Jameco 47466
+J_6                                         1               "LS10"          Jameco 46404
+K_1                                         1               "LS245"         Jameco 47212
+K_2 D_3                                     2               "LS42"          Jameco 47773
+K_5 D_2 H_1                                 3               "LS74"          Jameco 48004
+L_1                                         1               "2732_A"        Jameco 40125
+L_3 M_3 P_3 L_4 M_4 P_4                     6               "137211-001"    Jameco 2302575                                          
+L_8                                         1               "74LS07"        Jameco 46367
+M_1 M_2 N_1 N_2 P_1                         5               "LS244"         Jameco 47183
+M_6                                         1               "LS191"         Jameco 47001
+N_8                                         1               "LS164"         Jameco 46851
+P_5 K_6                                     2               "LS04"          Jameco 46316
+
+C37 C47 C66                                 3               "150pF"         Digikey 399-4213-ND‎
+C38                                         1               "39pF"          Digikey 399-4238-ND‎
+C4 C21                                      2               ".01uF"         Digikey 399-14040-1-ND‎
+C41 C5                                      2               ".01uF"         Digikey 399-4452-1-ND‎
+C42                                         1               "10pF"          Digikey 399-14082-ND‎
+C43 C44 C46 C81                             4               "100uF"         Digikey 1572-1050-ND‎
+C45 C48                                     2               "22uF"          Digikey 1572-1394-ND‎
+C8 C25                                      2               ".047uF"        Digikey BC3089-ND‎
+C83                                         1               "22pF"          Digikey 1270PH-ND‎
+C1 C2 C3 C6 C7 C9 C10 C11 C12 C14           53              ".1uF"          Digikey 399-4454-1-ND
+C17 C18 C19 C20 C26 C27 C28 C31 C35 C36
+C39 C40 C50 C51 C52 C53 C54 C55 C56 C57
+C58 C59 C60 C61 C62 C63 C64 C65 C67 C68
+C69 C70 C71 C72 C73 C74 C75 C76 C77 C78
+C79 C80 C82  
+
+CR1                                         1               "1N914"         Digikey 1N914FS-ND
+CR2                                         1               "LED"           Digikey VAOL-5701SBY4-ND
+CR3 CR4                                     2               "1N400"         Digikey 1N4005GP-E3/54
+
+L1 L2 L3                                    3               "1uH"           Digikey M10137-ND‎
+
+Q4 Q5 Q6 Q1 Q7                              5               "2N3904"        Digikey 2N3904-APCT-ND‎
+Q8                                          1               "2N3906"        Digikey 2N3906-APCT-ND‎
+
+R44 R41 R71 R68                             4               "10K POT"       Digikey 3386P-103-ND‎
+R47 R74                                     2               "2K  POT"       Digikey 3386P-202-ND‎
+R88 R92                                     2               "200 POT"       Digikey 3386P-201LF-ND
+R26 R27 R54 R55 R14                         5               "820"           Digikey 820QBK-ND‎
+R84                                         1               "560"           Digikey 560QBK-ND‎
+R87 R91                                     2               "6.19K"         Digikey 6.19KXBK-ND‎
+R75 R76                                     2               "1.30K"         Digikey 1.30KXBK-ND‎
+R11 R16                                     2               "12K"           Digikey 12KQBK-ND‎
+R12                                         1               "24K"           Digikey CF14JT24K0CT-ND‎
+R13                                         1               "47K"           Digikey 47KQBK-ND‎
+R17                                         1               "6.2K"          Digikey 6.2KQBK-ND‎
+R20 R21 R22                                 3               "470"           Digikey 470QBK-ND‎
+R23 R24 R25                                 3               "4.7k"          Digikey 4.7KQBK-ND‎
+R109 R110 R111 R82 R107                     5               "1K"            Digikey CFR-25JB-52-1K
+R42 R69                                     2               "150K"          Digikey 150KQBK-ND‎
+R43 R70                                     2               "2.7K"          Digikey S2.7KHCT-ND
+R45 R72                                     2               "6.8K"          Digikey CFR-25JB-52-6K8
+R46 R73                                     2               "22K"           Digikey FMP100JR-52-22K
+R81                                         1               "15K"           Digikey FMP100JR-52-15K
+R97                                         1               "3.9K"          Digikey CFR-25JB-52-3K9
+R51 R78 R114 R115 R116 R90 R94              7               "100"           Digikey CFR-25JB-52-100R
+R30 R31 R58 R106 R95 R96 R85 R86 R89 R93    10              "7.5K"          Digikey 7.50KXBK-ND‎
+R98 R99 R100 R101 R102 R103 R104 R105 R15   9               "100K"          Digikey CF14JT100KCT-ND
+R1 R2 R3 R4 R5 R6 R7 R8 R9 R10              14              "10K"           Digikey CFR-25JB-52-10K
+R83 R112 R113 R117
+
+RV1 RV2                                     2               "VDR"           Alan-1 varistor
+
+VR1                                         1               "L7815_"        Digikey 296-21624-5-ND‎
+VR2                                         1               "L7915_"        Digikey 497-7295-5-ND‎
+
+Plastic tabs                                2               "Tabs"          Digikey RPC1553-ND
+
++15V1 -15V1 +12V1 ~VMEM1 SACLK1 ~VROM1      26              "TP"            None
+~SA1 HALT1 ~INVERTX1 XOUT1 ~INVERTY1
+YOUT1 ZREF1 RED1 GREEN1 BLUE1 +5V2
++5V1 GND4 GND3 GND2 GND1 SAEN1 VCTR1
+12MHZ1 6MHZ1
+
+Sockets:
+8  pin: 5           Jameco 112206
+14 pin: 24          Jameco 112214
+16 pin: 26          Jameco 112222
+20 pin: 10          Jameco 112248
+24 pin: 7           Jameco 112264
+40 pin: 1           Jameco 112311
