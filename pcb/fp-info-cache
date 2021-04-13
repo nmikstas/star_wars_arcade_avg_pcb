@@ -1,4 +1,4 @@
-17043685001067094
+17058096855162058
 Asteroids
 2N6044
 
@@ -69521,8 +69521,8 @@ MountingHole
 
 
 0
-0
-0
+1
+1
 Star_Wars_Vector_PCB
 PotBlk
 
@@ -75732,3 +75732,52 @@ varistor SIOV
 0
 2
 2
+taito_video_processor_pcb
+50Pin
+
+
+0
+50
+50
+taito_video_processor_pcb
+CapA
+
+
+0
+2
+2
+taito_video_processor_pcb
+GenericComp
+
+
+0
+2
+2
+taito_video_processor_pcb
+RP
+
+
+0
+10
+10
+taito_video_processor_pcb
+TPA
+
+
+0
+1
+1
+taito_video_processor_pcb
+TPB
+
+
+0
+1
+1
+taito_video_processor_pcb
+hole_15
+
+
+0
+1
+1
