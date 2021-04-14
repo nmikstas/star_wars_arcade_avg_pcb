@@ -1,6 +1,7 @@
-# star_wars_arcade_avg_pcb
-The source files for the reproduction of the 1983 star wars arcade vector generator PCB.
+# star-wars-arcade-avg-pcb
+The source files for the reproduction of the 1983 Star Sars Arcade vector generator PCB. The PCB is designed with Kicad. This project is now complete and verified working!
 
-The PCB is designed with Kicad.
-
-The design is complete but as of right now a board has not been manufactured or tested. Soon!
+# Folder Structure
+* BOM - Bill of materials for the Asteroids PCB
+* Gerbers -The gerber files for the vector generator PCB
+* pcb - The Kicad design files for the vector generator PCB
