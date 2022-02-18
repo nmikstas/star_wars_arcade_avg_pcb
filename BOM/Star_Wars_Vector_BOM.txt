@@ -93,7 +93,7 @@ VR2                                         1               "L7915_"        Digi
 
 Plastic tabs                                2               "Tabs"          Digikey RPC1553-ND
 
-+15V1 -15V1 +12V1 ~VMEM1 SACLK1 ~VROM1      26              "TP"            None
++15V1 -15V1 +12V1 ~VMEM1 SACLK1 ~VROM1      26              "TP"            Digikey WM6456-ND
 ~SA1 HALT1 ~INVERTX1 XOUT1 ~INVERTY1
 YOUT1 ZREF1 RED1 GREEN1 BLUE1 +5V2
 +5V1 GND4 GND3 GND2 GND1 SAEN1 VCTR1
